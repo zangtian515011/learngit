@@ -1,3 +1,4 @@
+add/user/bin/env
 Git a distributed version control system house.
 Git free software distributed under the GPL.
 Git has a mutable index called stage.
