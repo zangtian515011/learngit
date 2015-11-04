@@ -1,1 +1,2 @@
+张志康是傻逼
 print("hello world")
